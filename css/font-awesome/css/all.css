@@ -25,7 +25,7 @@ h3 {
 }
 
 .header {
-  display: flex; /*headern tar upp mycket plats pga menyn?  */
+  display: flex;
   justify-content: flex-end;
   align-items: center;
   padding-right: 2rem;
@@ -45,7 +45,7 @@ div {
   width: 10rem; /* Ger en storlek till listan*/
   height: 20rem;
   background-color: #dcdcdc;
-  margin-top: -30px; /* För att trycka upp menyn till toppen*/
+  margin-top: -50px; /* För att trycka upp menyn till toppen*/
   list-style-type: none;
   display: flex;
   flex-direction: column;
